@@ -12,3 +12,4 @@ GIT COMMANDS
 git init-initialise repository
 git add *.html - add all html files
 git add . - adds all files
+git commit -m "message"
