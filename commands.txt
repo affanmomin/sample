@@ -1,0 +1,14 @@
+cd - Go in the folder
+mkdir-create folder
+ls -check files in the folder
+touch-open file
+ls -a check hidden files as well
+
+
+
+
+GIT COMMANDS
+
+git init-initialise repository
+git add *.html - add all html files
+git add . - adds all files
