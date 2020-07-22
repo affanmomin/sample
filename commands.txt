@@ -13,3 +13,7 @@ git init-initialise repository
 git add *.html - add all html files
 git add . - adds all files
 git commit -m "message"
+git remote 
+git remote add origin  <link>.git
+git remote
+git push -u origin master
